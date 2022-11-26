@@ -84,7 +84,7 @@ Calcular errores de las mediciones y comentar los resultados.
 
 VIDEO
 
-
+https://www.youtube.com/watch?v=kP2rc26q5iA
 
 CONCLUSIONES
 
